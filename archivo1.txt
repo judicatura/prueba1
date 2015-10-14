@@ -1,0 +1,6 @@
+repositorio de prueba	
+
+linea de prueba1
+linea de prueba2
+linea de prueba3
+linea de prueba4:Q
